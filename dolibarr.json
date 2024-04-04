@@ -46,6 +46,15 @@
     "commercial_support_available": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dolibarr",
     "reference_list": [],
-    "success_case_list": []
+    "success_case_list": [{
+    "title": "Dolicloud",
+    "description": "Dolicloud is the first cloud-based ERP and CRM 100% Open - based on the Dolibarr Open source suite with full access to the database and program files of the underlying SaaS service.",
+    "image_url": "https://www.dolicloud.com/medias/image/dolicloud.com/dolicloud_256x256_color.png",
+    "industry": "Information Technology",
+    "customer": "NLTechno",
+    "country": "FR",
+    "language": "en",
+    "success_case_url": "https://www.dolicloud.com/"
+}]
   }]
 }
